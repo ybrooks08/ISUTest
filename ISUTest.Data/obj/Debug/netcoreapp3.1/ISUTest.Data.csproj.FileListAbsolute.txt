@@ -1,0 +1,24 @@
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.deps.json
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.runtimeconfig.json
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.runtimeconfig.dev.json
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.dll
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.pdb
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.csprojAssemblyReference.cache
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.AssemblyInfoInputs.cache
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.AssemblyInfo.cs
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.dll
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.pdb
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.genruntimeconfig.cache
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.deps.json
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.runtimeconfig.json
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.runtimeconfig.dev.json
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.dll
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.pdb
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.AssemblyInfoInputs.cache
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.AssemblyInfo.cs
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.csproj.CoreCompileInputs.cache
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.dll
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.pdb
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.genruntimeconfig.cache
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.csprojAssemblyReference.cache

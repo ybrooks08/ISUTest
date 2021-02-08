@@ -1,0 +1,28 @@
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\bin\Debug\netcoreapp3.1\ISUTest.Interfaces.deps.json
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\bin\Debug\netcoreapp3.1\ISUTest.Interfaces.dll
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\bin\Debug\netcoreapp3.1\ISUTest.Interfaces.pdb
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.csprojAssemblyReference.cache
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.AssemblyInfoInputs.cache
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.AssemblyInfo.cs
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.dll
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.pdb
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\bin\Debug\netcoreapp3.1\ISUTest.Data.dll
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\bin\Debug\netcoreapp3.1\ISUTest.Data.pdb
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.Resources.TransString.resources
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.csproj.GenerateResource.cache
+C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.csproj.CopyComplete
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\bin\Debug\netcoreapp3.1\ISUTest.Interfaces.deps.json
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\bin\Debug\netcoreapp3.1\ISUTest.Interfaces.dll
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\bin\Debug\netcoreapp3.1\ISUTest.Interfaces.pdb
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\bin\Debug\netcoreapp3.1\ISUTest.Data.dll
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\bin\Debug\netcoreapp3.1\ISUTest.Data.pdb
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.csprojAssemblyReference.cache
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.Resources.TransString.resources
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.csproj.GenerateResource.cache
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.AssemblyInfoInputs.cache
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.AssemblyInfo.cs
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.csproj.CoreCompileInputs.cache
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.csproj.CopyComplete
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.dll
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Interfaces\obj\Debug\netcoreapp3.1\ISUTest.Interfaces.pdb
