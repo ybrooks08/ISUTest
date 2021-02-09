@@ -94,5 +94,18 @@ namespace ISUTest.Services
                 throw ex;
             }
         }
+        
+        public List<ContactTypeViewModel> GetContactTypes()
+        {
+            try
+            {
+                List<ContactTypeViewModel> contactTypes = _repo.GetContactTypes();
+                return contactTypes;
+            }
+            catch ( Exception ex )
+            {
+                throw ex;
+            }
+        }
     }
 }

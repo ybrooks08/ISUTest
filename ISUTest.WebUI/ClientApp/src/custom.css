@@ -12,3 +12,99 @@ code {
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
+
+.header-class{
+  display: none;
+}
+
+nav{
+  background-image: url('./img/bannerISU.png');
+  background-size: cover;
+}
+nav div, nav div a{
+  color: #fff!important;
+}
+
+body {
+  background-color:#f8f8f8;
+}
+
+#main-content{
+  background-color:#efefef;
+  padding-top: 20px;
+}
+
+.showed-content{
+  background-color:#fafafa;
+}
+
+.table-bordered, .table-bordered td{
+  border:none;
+}
+
+.react-bootstrap-table table{
+  /*background-color: #efefef;*/
+  border-collapse: separate;
+  border-spacing: 0 15px;
+}
+.react-bootstrap-table table tr{
+  background-color: #efefef;
+}
+
+.link-as-button{  
+    background-color: #9f9f9f;
+    color: white;
+    padding: 0.5em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+  
+}
+
+.rdw-editor-main{
+  background-color: #fff;
+}
+
+@media only screen and (min-width: 576px) {
+  /* For desktop: */
+  nav {height: 150px;}  
+
+  span.site-title-span {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 5px;
+  }
+
+  #site-name{
+    width: 570px;
+  }
+  #company-name{
+    font-size: xxx-large;
+    margin-right: 20px;
+  }
+  #isu-nav-des {text-align: justify;}
+  #bar-ontop-content, footer{
+    min-height: 80px;
+  }
+  #main-content{
+    padding-bottom: 40px;
+  }  
+  #main-content{
+    padding-bottom: 20px;
+  }
+  .showed-content{
+    padding: 20px;
+  }
+  .rdw-editor-main{
+    min-height: 300px;
+    padding: 10px;
+  }  
+}
+
+@media only screen and (max-width: 576px) {
+  /* For mobile phones: */
+  #isu-nav-des {display: none;}
+  #main-content{
+    padding-bottom: 15px;
+  }
+}

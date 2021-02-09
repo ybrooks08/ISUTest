@@ -62,6 +62,9 @@ namespace ISUTest.Data.ReservationRepository
                             reservation.ContactTyppe = dataReader["contactTyppe"].ToString();
                             reservation.Stars = Convert.ToInt32( dataReader["stars"].ToString());
                             reservation.Favorite = Convert.ToBoolean( dataReader["favorite"].ToString());
+                            reservation.Birth = Convert.ToDateTime( dataReader["birth"].ToString() );
+                            reservation.CreatedDate = Convert.ToDateTime( dataReader["createdDate"].ToString() );
+                            reservation.ModifiedDate = Convert.ToDateTime( dataReader["modifiedDate"].ToString() );
                             reservationList.Add( reservation );
                         }
                     }
@@ -73,102 +76,22 @@ namespace ISUTest.Data.ReservationRepository
             }
             return reservationList;
         }
-        /* public async Task<List<Category>> GetCategories()
-         {
-             if ( _db != null )
-             {
-                 return await db.Category.ToListAsync();
-             }
-
-             return null;
-         }*/
-
-        /*public async Task<List<ReservationViewModel>> GetReservations()
-        {
-            if ( _db != null )
-            {
-                return await ( from r in _db.Reservations
-                               from c in _db.Contacts
-                               where r.CategoryId == c.Id
-                               select new ReservationViewModel
-                               {
-                                   Id = r.id,
-                                   ContactId = r.contactId,
-                                   Description = r.description
-                               } ).ToListAsync();
-            }
-
-            return null;
-        }
-
-        public async GetReservation( int? reservationId )
-        {
-            if ( _db != null )
-            {
-                return await ( from p in _db.Post
-                               from c in _db.Category
-                               where p.PostId == postId
-                               select new ReservationViewModel
-                               {
-                                   PostId = p.PostId,
-                                   Title = p.Title,
-                                   Description = p.Description,
-                                   CategoryId = p.CategoryId,
-                                   CategoryName = c.Name,
-                                   CreatedDate = p.CreatedDate
-                               } ).FirstOrDefaultAsync();
-            }
-
-            return null;
-        }
-
-        public async Task<int> AddReservation( Reservation reservation )
-        {
-            if ( _db != null )
-            {
-                await _db.Post.AddAsync( post );
-                await _db.SaveChangesAsync();
-
-                return post.PostId;
-            }
-
-            return 0;
-        }
-
-        public async Task<int> DeleteReservation( int? reservationId )
-        {
-            int result = 0;
-
-            if ( _db != null )
-            {
-                //Find the post for specific post id
-                var post = await _db.Post.FirstOrDefaultAsync( x => x.PostId == postId );
-
-                if ( post != null )
-                {
-                    //Delete that post
-                    _db.Post.Remove( post );
-
-                    //Commit the transaction
-                    result = await _db.SaveChangesAsync();
-                }
-                return result;
-            }
-
-            return result;
-        }
-
-
+        
+        /// <summary>
+        /// Update reservation
+        /// </summary>
+        /// <param name="reservation"></param>
+        /// <returns></returns>
         public async Task UpdateReservation( Reservation reservation )
         {
             if ( _db != null )
             {
-                //Delete that post
-                _db.Post.Update( post );
+                //Update that reservation
+                _db.Reservations.Update( reservation );
 
                 //Commit the transaction
                 await _db.SaveChangesAsync();
             }
-        }*/
+        }
     }
 }

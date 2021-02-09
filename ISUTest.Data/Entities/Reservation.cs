@@ -12,6 +12,8 @@ namespace ISUTest.Data.Entities
         public string ContactName { get; set; }
         public short Stars { get; set; }
         public bool Favorite { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime ModifiedDate { get; set; }
 
         public virtual Contact ContactNameNavigation { get; set; }
     }

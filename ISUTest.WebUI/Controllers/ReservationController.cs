@@ -141,5 +141,35 @@ namespace ISUTest.WebUI.Controllers
 
             return BadRequest();
         }
+
+        [HttpPost]
+        [Route( "UpdReservation" )]
+        public async Task<IActionResult> UpdateReservation( [FromBody] ReservationViewModel model )
+        {
+            //Making validation in server side
+            if ( ModelState.IsValid )
+            {
+                try
+                {
+                    var done = await _rManager.UpdateReservation( model );
+                    if ( done )
+                    {
+                        return Ok();
+                    }
+                    else
+                    {
+                        return NotFound();
+                    }
+                }
+                catch ( Exception )
+                {
+
+                    return BadRequest();
+                }
+
+            }
+
+            return BadRequest();
+        }
     }
 }

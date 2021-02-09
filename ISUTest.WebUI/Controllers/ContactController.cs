@@ -48,6 +48,21 @@ namespace ISUTest.WebUI.Controllers
             }
 
         }
+        
+        [HttpGet( "AllContactTypes" )]
+        public List<ContactTypeViewModel> GetContactTypes()
+        {
+            try
+            {
+                List<ContactTypeViewModel> result = _cManager.GetContactTypes();
+                return result;
+            }
+            catch ( Exception ex )
+            {
+                throw ex;
+            }
+
+        }
 
         [HttpPost]
         [Route( "DeleteCont" )]

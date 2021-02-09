@@ -93,6 +93,11 @@ namespace ISUTest.Data
                     .IsUnicode(false)
                     .HasColumnName("contactName");
 
+                entity.Property(e => e.CreatedDate)
+                    .HasColumnType("datetime")
+                    .HasColumnName("createdDate")
+                    .HasDefaultValueSql("(getdate())");
+
                 entity.Property(e => e.Description)
                     .IsRequired()
                     .HasMaxLength(500)
@@ -100,6 +105,11 @@ namespace ISUTest.Data
                     .HasColumnName("description");
 
                 entity.Property(e => e.Favorite).HasColumnName("favorite");
+
+                entity.Property(e => e.ModifiedDate)
+                    .HasColumnType("datetime")
+                    .HasColumnName("modifiedDate")
+                    .HasDefaultValueSql("(getdate())");
 
                 entity.Property(e => e.Stars).HasColumnName("stars");
 

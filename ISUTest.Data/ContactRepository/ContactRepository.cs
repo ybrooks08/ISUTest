@@ -129,6 +129,10 @@ namespace ISUTest.Data.ContactRepository
             return contact;
         }
 
+        /// <summary>
+        /// Get all contacts
+        /// </summary>
+        /// <returns></returns>
         public List<ContactViewModel> GetContacts()
         {
             List<ContactViewModel> contactList = new List<ContactViewModel>();
@@ -161,6 +165,40 @@ namespace ISUTest.Data.ContactRepository
                 throw;
             }
             return contactList;
+        }
+
+        /// <summary>
+        /// Get contact types
+        /// </summary>
+        /// <returns></returns>
+        public List<ContactTypeViewModel> GetContactTypes()
+        {
+            List<ContactTypeViewModel> contactTypeList = new List<ContactTypeViewModel>();
+            try
+            {
+
+                string sql = "SP_GetContactTypes";
+                using ( SqlConnection connection = new SqlConnection( _connectionString ) )
+                {
+                    SqlCommand command = new SqlCommand( sql, connection );
+                    connection.Open();
+                    using ( SqlDataReader dataReader = command.ExecuteReader() )
+                    {
+                        while ( dataReader.Read() )
+                        {
+                            ContactTypeViewModel contactType = new ContactTypeViewModel();
+                            contactType.Id = Convert.ToInt32( dataReader["id"] );
+                            contactType.ContactType = dataReader["description"].ToString();
+                            contactTypeList.Add( contactType );
+                        }
+                    }
+                }
+            }
+            catch ( Exception ex )
+            {
+                throw;
+            }
+            return contactTypeList;
         }
     }
 }

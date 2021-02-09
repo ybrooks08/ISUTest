@@ -12,10 +12,6 @@ C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Se
 C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Services\bin\Debug\netcoreapp3.1\ISUTest.Data.pdb
 C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Services\bin\Debug\netcoreapp3.1\ISUTest.Interfaces.pdb
 C:\Users\yosbel\Documents\Visual Studio 2019\Projects\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.csproj.CopyComplete
-D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.csprojAssemblyReference.cache
-D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.AssemblyInfoInputs.cache
-D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.AssemblyInfo.cs
-D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.csproj.CoreCompileInputs.cache
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\bin\Debug\netcoreapp3.1\ISUTest.Services.deps.json
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\bin\Debug\netcoreapp3.1\ISUTest.Services.dll
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\bin\Debug\netcoreapp3.1\ISUTest.Services.pdb
@@ -23,6 +19,10 @@ D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\bin\Debug\netcor
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\bin\Debug\netcoreapp3.1\ISUTest.Interfaces.dll
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\bin\Debug\netcoreapp3.1\ISUTest.Data.pdb
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\bin\Debug\netcoreapp3.1\ISUTest.Interfaces.pdb
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.csprojAssemblyReference.cache
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.AssemblyInfoInputs.cache
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.AssemblyInfo.cs
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.csproj.CoreCompileInputs.cache
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.csproj.CopyComplete
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.dll
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Services\obj\Debug\netcoreapp3.1\ISUTest.Services.pdb

@@ -20,14 +20,6 @@ namespace ISUTest.Data.ReservationRepository
         /// <returns></returns>
         List<ReservationViewModel> GetReservations();
 
-        /*Task<List<ReservationViewModel>> GetReservations();
-
-        Task<ReservationViewModel> GetReservation( int? reservationId );
-
-        Task<int> AddReservation( Reservation reservation );
-
-        Task<int> DeleteReservation( int? reservationId );
-
-        Task UpdateReservation( Reservation reservation );*/
+        Task UpdateReservation( Reservation reservation );
     }
 }

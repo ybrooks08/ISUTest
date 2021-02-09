@@ -67,5 +67,20 @@ namespace ISUTest.Services
                 throw ex;
             }
         }
+
+        public async Task<bool> UpdateReservation( ReservationViewModel model )
+        {
+            try
+            {
+                Reservation reservation = _mapper.Map<Reservation>( model );
+                await _repo.UpdateReservation( reservation );
+                //Returning true if everithing went fine
+                return true;
+            }
+            catch ( Exception ex )
+            {
+                throw ex;
+            }
+        }
     }
 }

@@ -40,5 +40,11 @@ namespace ISUTest.Data.ContactRepository
         /// </summary>
         /// <returns></returns>
         List<ContactViewModel> GetContacts();
+
+        /// <summary>
+        /// Get all contact types
+        /// </summary>
+        /// <returns></returns>
+        List<ContactTypeViewModel> GetContactTypes();
     }
 }

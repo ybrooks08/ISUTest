@@ -15,10 +15,10 @@ D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.runtimeconfig.dev.json
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.dll
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\bin\Debug\netcoreapp3.1\ISUTest.Data.pdb
+D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.csprojAssemblyReference.cache
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.AssemblyInfoInputs.cache
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.AssemblyInfo.cs
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.csproj.CoreCompileInputs.cache
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.dll
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.pdb
 D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.genruntimeconfig.cache
-D:\Myself\Projects\NetCoreTest\ISUTest\ISUTest\ISUTest.Data\obj\Debug\netcoreapp3.1\ISUTest.Data.csprojAssemblyReference.cache

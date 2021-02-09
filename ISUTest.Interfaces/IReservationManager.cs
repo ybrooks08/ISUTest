@@ -20,5 +20,12 @@ namespace ISUTest.Interfaces
         /// </summary>
         /// <returns></returns>
         List<ReservationViewModel> GetReservations();
+
+        /// <summary>
+        /// Update reservation
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
+        Task<bool> UpdateReservation( ReservationViewModel model );
     }
 }

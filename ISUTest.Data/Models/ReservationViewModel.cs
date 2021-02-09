@@ -16,5 +16,7 @@ namespace ISUTest.Data.Models
         public string ContactTyppe { get; set; }
         public int Stars { get; set; }
         public bool Favorite { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime ModifiedDate { get; set; }
     }
 }
