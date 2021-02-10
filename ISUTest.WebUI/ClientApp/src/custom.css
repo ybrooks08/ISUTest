@@ -64,6 +64,18 @@ body {
   background-color: #fff;
 }
 
+.page-item.active .page-link {
+  background-color: #9f9f9f;
+  border-color: #9f9f9f;
+}
+
+.page-item a{
+  color:  #9f9f9f;
+}
+.active .page-item a{
+  color:  #fff;
+}
+
 @media only screen and (min-width: 576px) {
   /* For desktop: */
   nav {height: 150px;}  
