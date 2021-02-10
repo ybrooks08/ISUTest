@@ -33,9 +33,11 @@ export class AddReservation extends Component {
       //to disable component on edit
       disable: false  
     };
+
   }
 
-  componentDidMount() {    
+  componentDidMount() { 
+    console.info(this.state.showingList);   
     this.populateContactsData();
     this.populateContactTypesData();
     if(this.props.location.data != null){
