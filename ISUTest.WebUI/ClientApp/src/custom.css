@@ -80,8 +80,19 @@ body {
   font-size: 2em;
   color: #bc0000;
 }
-
-
+.des-top-bar{
+  text-align: justify;
+  color:#9f9f9f;
+  font-size: 0.9em;
+}
+#top-res-list{
+  text-align: center;
+  padding: 0.5em 5em 0.2em 5em;
+}
+.rdw-editor-main {
+  min-height: 20em;
+  padding: 1em;
+}
 
 @media only screen and (min-width: 576px) {
   /* For desktop: */
@@ -113,20 +124,7 @@ body {
   }
   .showed-content{
     padding: 20px;
-  }
-  .rdw-editor-main{
-    min-height: 300px;
-    padding: 10px;
-  } 
-  #top-res-list{
-    text-align: center;
-    padding: 10px 50px 20px 50px;
-  }
-  .des-top-bar{
-    text-align: justify;
-    color:#9f9f9f;
-    font-size: 15px;
-  }
+  }    
   .button-top-bar{
     background-color: #9f9f9f;
     color: white;
@@ -146,5 +144,8 @@ body {
   #isu-nav-des {display: none;}
   #main-content{
     padding-bottom: 15px;
+  }
+  .button-top-bar-reg{
+    display: none;
   }
 }
